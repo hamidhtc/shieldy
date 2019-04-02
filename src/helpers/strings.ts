@@ -105,6 +105,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Будь ласка, виберіть мову.',
     br: 'Por favor, selecione uma língua.',
     tr: 'Lütfen dili seçin.',
+    fa: 'لطفا زبان را انتخاب کنید.',
   },
   language_selected: {
     en: 'Great, I speak English now.',
@@ -114,6 +115,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Чудово, тепер я розмовляю українською.',
     br: 'Boa, Agora eu falo português.',
     tr: 'Harika, artık Türkçe konuşuyorum.',
+    fa: 'خوبه، حالا فارسی صحبت میکنم.',
   },
   only_author_can_reply: {
     en: 'Only the person who initiated the menu can select the choices.',
@@ -123,6 +125,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Тільки людина, яка викликала меню, може вибирати опції.',
     br: 'Apenas a pessoa que iniciou o menu pode selecionar as opções.',
     tr: 'Sadece menüyü başlatan kişi seçenekleri seçebilir.',
+    fa: 'شما اجازه این کار را ندارید.',
   },
   captcha: {
     en: `Please, select the test type for the newcomers:
@@ -153,6 +156,10 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
 
 • Basit — bot sohbet için bir şey göndermek isteyecektir
 • Düğme — bot bir düğmeye basılmasını isteyecektir`,
+    fa: `یکی از روش های زیر را انتخاب کنید:
+
+• ساده - این گزینه پیشنهاد نمیشود.
+• دکمه - باید روی دکمه کلیک کنند.`,
   },
   simple: {
     en: 'Simple',
@@ -162,6 +169,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Проста',
     br: 'Simples',
     tr: 'Basit',
+    fa: 'ساده',
   },
   digits: {
     en: 'Digits',
@@ -171,6 +179,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Цифрова',
     br: 'Digitos',
     tr: 'Rakamlar',
+    fa: 'اعداد',
   },
   button: {
     en: 'Button',
@@ -180,6 +189,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Кнопкою',
     br: 'Botão',
     tr: 'Düğme',
+    fa: 'دکمه (پیشنهادی)',
   },
   captcha_selected: {
     en: 'Great, I will use this type of test then.',
@@ -189,6 +199,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Чудово, тепер я буду використовувати цей тип тесту.',
     br: 'Boa, Eu irei usar esse tipo de teste agora.',
     tr: 'Harika, o zaman bu tür bir testi kullanacağım.',
+    fa: 'اوکی، از این به بعد با این روش عمل میکنم.',
   },
   time_limit: {
     en:
@@ -205,6 +216,8 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
       'Por favor, selecione quantos segundos o novato tem para completar o teste.',
     tr:
       'Lütfen, yeni gelenlerin kovulmadan önce testi tamamlaması gereken saniyeyi seçin.',
+    fa:
+      'لطفا انتخاب کنید که کاریر چند ثانیه اجازه دارد تا کپچا را تکمیل کند.',
   },
   time_limit_selected: {
     en: 'Great, I will use this time limit then.',
@@ -214,6 +227,7 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Чудово, тепер я буду використовувати це обмеження часу.',
     br: 'Boa, Eu irei usar esse tempo limite agora.',
     tr: 'Harika, o zaman bu süreyi kullanacağım.',
+    fa: 'اوکی، از این به بعد اینقدر صبر میکنم.',
   },
   seconds: {
     en: 'sec',
@@ -222,7 +236,8 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     et: 'sek',
     uk: 'сек',
     br: 'sec',
-    tr: 'san',
+    tr: 'san', 
+    fa: 'ثانیه',
   },
   lock_true: {
     en: 'Great! Now I will only react to commands sent by admins.',
@@ -232,6 +247,8 @@ Hala sorularınız mı var? Destek kanalına göz atın: — @borodutch\\_suppor
     uk: 'Чудово! Тепер я буду приймати команди тільки від адміністраторів.',
     br: 'Boa! Agora só obedecerei os ADMs.',
     tr: 'Harika! Artık sadece yöneticiler tarafından gönderilen komutlara tepki vereceğim.',
+    fa: 'باشه، از این به بعد فقط به دستورات ادمین ها جواب میدم.',
+
   },
   lock_false: {
     en: 'Great! Now I will react to commands sent by anybody.',
